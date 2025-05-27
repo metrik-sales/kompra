@@ -1,0 +1,10 @@
+{
+    "name": "Tool_Objeções",
+    "description": "Responde de forma empática, humana e estratégica a objeções comuns de leads que estão inseguros, desconfiados ou resistentes no momento da decisão. Deve reforçar a segurança jurídica do escritório, o cuidado no atendimento e tranquilizar o cliente sem pressionar.",
+    "responses": {
+        "default": "Entendo totalmente sua dúvida, e é muito importante você se sentir seguro(a) antes de dar qualquer passo.\n\nAqui a gente trabalha com transparência e responsabilidade.\nA análise do seu caso é gratuita, e os honorários só são cobrados se o benefício for concedido.\n\nSe quiser, posso te enviar nossos dados completos — CNPJ, OAB, redes sociais e site oficial —\nassim você pode conferir tudo com calma.\n\nPosso te ajudar com isso agora?",
+        "ja_tentei_antes": "Isso é mais comum do que parece!\nMuitas vezes o pedido é negado por falta de documentos, laudo incompleto ou erro no cadastro.\n\nPosso revisar o seu caso com carinho e ver se há uma nova chance, tudo bem?",
+        "vou_pensar": "Combinado! Só não perde o timing, tá?\nAlguns direitos têm prazos e deixar pra depois pode acabar dificultando.\n\nSe quiser, posso te explicar rapidinho o que falta pra dar o próximo passo — sem pressa.",
+        "ta_caro": "A análise do seu caso é gratuita, e você só paga no final,\ncaso o benefício seja aprovado. Sem adiantamento, sem risco.\n\nIsso deixa tudo mais leve pra você nesse momento."
+    }
+}
