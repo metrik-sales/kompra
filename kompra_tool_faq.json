@@ -1,0 +1,82 @@
+{
+  "status": "ok",
+  "message": "FAQ completo Kompra.app",
+  "pdf_link": "https://files.kompra.app/Kompra_FAQ.pdf",
+  "faq": [
+    {
+      "id": 1,
+      "question": "Preciso trocar de fornecedor?",
+      "answer": "Não. Você mantém todos os seus fornecedores atuais. A plataforma só automatiza cotação, comparação e compra."
+    },
+    {
+      "id": 2,
+      "question": "E se o fornecedor não responder?",
+      "answer": "Mais de 200 operações usam a Kompra. Nosso robô avisa e envia lembretes; quando ele não responde, você decide se quer incluir novos."
+    },
+    {
+      "id": 3,
+      "question": "Vocês encontram fornecedores novos?",
+      "answer": "Sim. Seu Gerente de Contas sugere fornecedores regionais ou nacionais quando existe potencial de economia ou falta de estoque."
+    },
+    {
+      "id": 4,
+      "question": "Qual a economia média?",
+      "answer": "~10 % do custo de insumos. Há casos de 16 % (Hard Rock Café Curitiba)."
+    },
+    {
+      "id": 5,
+      "question": "Quanto custa a plataforma?",
+      "answer": "A licença mensal representa, em média, 10–25 % da economia gerada — ou seja, ela se paga e ainda sobra dinheiro."
+    },
+    {
+      "id": 6,
+      "question": "Tem fidelidade ou multa?",
+      "answer": "Contrato mensal. Você cancela sem multa avisando com 30 dias."
+    },
+    {
+      "id": 7,
+      "question": "Integra com meu ERP/PDV?",
+      "answer": "Sim. Exportamos pedidos em CSV/JSON ou via API; integrações nativas com VR Tech, Linx e WMS parceiros."
+    },
+    {
+      "id": 8,
+      "question": "Quanto tempo leva pra começar?",
+      "answer": "Cadastro inicial + importação de lista em até 1 dia útil. Primeiro leilão pode rodar já na mesma semana."
+    },
+    {
+      "id": 9,
+      "question": "Preciso treinar a equipe?",
+      "answer": "Interface simples: 1 clique pra cotar, 1 pra comprar. Enviamos vídeo-tutorial de 5 min e suporte em horário comercial."
+    },
+    {
+      "id": 10,
+      "question": "Tem pedido mínimo?",
+      "answer": "Não. Você define a lista; o robô só negocia itens que você realmente precisa."
+    },
+    {
+      "id": 11,
+      "question": "Funciona com perecíveis (frutas, carnes)?",
+      "answer": "Sim. Basta incluir unidade de medida e padrão de qualidade; o robô considera preço, frete e prazo de entrega."
+    },
+    {
+      "id": 12,
+      "question": "Segurança dos dados?",
+      "answer": "Criptografia AES-256; ambiente AWS-São Paulo; acesso por login individual com MFA opcional."
+    },
+    {
+      "id": 13,
+      "question": "Tenho suporte se der problema?",
+      "answer": "Chat e telefone em horário comercial + SLA de 2 h. Plano Enterprise inclui gerente dedicado."
+    },
+    {
+      "id": 14,
+      "question": "Preciso mudar processo interno?",
+      "answer": "Só substitui o WhatsApp/planilha das cotações. Recebimento e conferência continuam iguais."
+    },
+    {
+      "id": 15,
+      "question": "Se eu quiser parar depois de 3 meses?",
+      "answer": "Basta cancelar dentro da plataforma; dados ficam disponíveis para download por 30 dias."
+    }
+  ]
+}
